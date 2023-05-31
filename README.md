@@ -28,7 +28,7 @@ Bu çalışmada StandardScaler kullanarak veriler ölçeklendirilcektir. Standar
 
 Gerekli teorik bilgilere değindikten sonra artık örnek uygulamamıza başlayabilir, sonuçları karşılaştırabiliriz.
 
-Yazı serisinin tamamını okumak için [tıklayınız](https://www.brain-tr.com/dengesiz-verilerin-imbalanced-ustesinden-nasil-gelebiliriz/).
+Yazı serisinin tamamını okumak için [tıklayınız](https://www.brain-tr.com/pca-principal-component-analysis-kullanarak-boyut-azaltma-nasil-gerceklestirilir/).
 
 Notebook dosyası için [tıklayınız](https://github.com/tr-brain-com/pca/blob/main/pca.ipynb).
 
