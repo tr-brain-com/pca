@@ -28,7 +28,7 @@ Bu çalışmada StandardScaler kullanarak veriler ölçeklendirilcektir. Standar
 
 Gerekli teorik bilgilere değindikten sonra artık örnek uygulamamıza başlayabilir, sonuçları karşılaştırabiliriz.
 
-Yazı serisinin tamamını okumak için [tıklayınız](https://github.com/tr-brain-com/acikhack2023TDDI/blob/main/utils/run_split_kfold.py).
+Yazı serisinin tamamını okumak için [tıklayınız](https://www.brain-tr.com/dengesiz-verilerin-imbalanced-ustesinden-nasil-gelebiliriz/).
 
 Notebook dosyası için [tıklayınız](https://github.com/tr-brain-com/pca/blob/main/pca.ipynb).
 
